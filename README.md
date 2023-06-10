@@ -77,11 +77,11 @@ public class cube : MonoBehaviour
 ## Scene 1:
 |Sphere before hitting cube|Sphere After hitting cube|
 |:-:|:-:|
-|![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/7f3e78b1-babe-4842-9b14-1db9fac386f6)
-|![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/acbec037-a0f8-42cd-bc91-f805c69b207f)
+|![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/7f3e78b1-babe-4842-9b14-1db9fac386f6)|![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/acbec037-a0f8-42cd-bc91-f805c69b207f)
 |
 ## Redirected scene:
-![Uploading image.png…]()
+![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/a271b6bb-addd-46ef-a113-c3a3b8d7b274)
+
 
 ## Result:
 Thus, redirecting the scene is successfully execcuted in the unity engine.
