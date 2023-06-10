@@ -78,7 +78,6 @@ public class cube : MonoBehaviour
 |Sphere before hitting cube|Sphere After hitting cube|
 |:-:|:-:|
 |![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/7f3e78b1-babe-4842-9b14-1db9fac386f6)|![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/c9616b9c-5308-4326-9230-1448297fe7a3)
-|
 ## Redirected scene:
 ![image](https://github.com/Vineesh-AI-DS/Redirecting-the-scene/assets/93427254/a271b6bb-addd-46ef-a113-c3a3b8d7b274)
 
