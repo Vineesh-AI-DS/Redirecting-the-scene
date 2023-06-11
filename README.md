@@ -1,4 +1,4 @@
-# Ex-8 Redirecting-the-scene
+# Ex-7 Redirecting-the-scene
 
 ## Aim:
 To Redirect the scene in the unity engine.
